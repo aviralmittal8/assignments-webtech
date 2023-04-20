@@ -1,0 +1,48 @@
+body{
+    background-color:lightyellow;
+  
+    
+   
+}
+
+h2{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 14px 100px;
+    margin-top: 0px;
+}
+h3{
+    text-align: center;
+    color: red;
+    margin-top: 0px;
+}
+button{
+    border-radius: 6px;
+    background-color:blue;
+    color: white;
+    padding: 8px 24px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: 700px;
+}
+.cover_img{
+    display: inline-block;
+    max-height: 500px;
+    width: 1500px;
+    margin-bottom: 20px;
+    margin-bottom: 0px;
+}
+header{
+    margin: auto;
+   
+    width: 43%;
+    
+}
+.inln{
+    display: inline;
+}
+.mainhead{
+    text-align: center;
+    display: inline;
+    
+}
